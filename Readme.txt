@@ -1,7 +1,5 @@
 The purpose of this challenge is to evaluate your technical skills and learning capabilities. This is a home assignment and you are encouraged to use any resource at your disposal. The assignment should run on Android (could be written Native or React Native)
 
-**Please acknowledge receiving this email before proceeding**
-
 Setup 
 
     Prepare a simple mobile application named HeartMe
@@ -24,7 +22,7 @@ Functionality
 
         Evaluate the result value based on the test category and the result threshold
 
-        Inform the user whether their result is "Good!" (i.e. below threshold), "Bad!" (i.e. above threshold) or ìUnknownî (i.e test not found in dataset)
+        Inform the user whether their result is "Good!" (i.e. below threshold), "Bad!" (i.e. above threshold) or ‚ÄúUnknown‚Äù (i.e test not found in dataset)
 
     UI mock:
 
